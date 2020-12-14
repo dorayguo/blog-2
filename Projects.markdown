@@ -1,4 +1,8 @@
-## List of Projects
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
 **Fall 2020**
 
 [Personal Website](#personal-website-2020)
