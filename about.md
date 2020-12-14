@@ -33,4 +33,4 @@ doraguo@umich.edu
 
 **resume**
 
-[download pdf](/assets/Resume_20_2020.pdf)
+[download pdf](/assets/Resume_12_2020.pdf)
