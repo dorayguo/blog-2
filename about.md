@@ -3,16 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hey! I'm Dora.
+Nice to meet you :D
+If you wanted to learn more about me, contact me,
+or take a look at my resume, you're at the right place!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+***who am I? I'm...***
+a Computer Science and Psychology student at University of Michigan,
+an Asian-American who lived in China for 5 years, and
+a blob
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+***things I like...***
+the stillness at dawn, being drowned in nature, eating good food,
+dancing, drawing, and windows on a rainy midnight.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+***contact me***
+doraguo@umich.edu
 
-
-[jekyll-organization]: https://github.com/jekyll
+**resume**
+[download pdf](/assets/Resume_20_2020.pdf)
