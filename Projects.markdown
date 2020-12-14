@@ -88,6 +88,7 @@ Then I print the list:
 
     for c in classes_list:
 	    print(c)
+
 This is accompanied by a small summary of whether there are any classes available and whether there are no discussion sections/lab available.
 
 Lastly, it provides the option to check for further class details by redirecting to the corresponding class syllabus or Atlas:
