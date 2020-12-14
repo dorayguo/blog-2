@@ -1,5 +1,7 @@
 ---
 layout: post
+title: "my Summer 2020 internship"
+categories: reflection
 ---
 
 
