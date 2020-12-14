@@ -7,9 +7,8 @@ Hey! I'm Dora.
 
 Nice to meet you :D
 
-If you wanted to learn more about me, contact me,
+If you wanted to learn more about me, contact me, or take a look at my resume, you're at the right place!
 
-or take a look at my resume, you're at the right place!
 
 ***who am I? I'm...***
 
@@ -19,15 +18,18 @@ an Asian-American who lived in China for 5 years, and
 
 a blob
 
+
 ***things I like...***
 
 the stillness at dawn, being drowned in nature, eating good food,
 
 dancing, drawing, and windows on a rainy midnight.
 
+
 ***contact me***
 
 doraguo@umich.edu
+
 
 **resume**
 
