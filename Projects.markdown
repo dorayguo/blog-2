@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+
 **Fall 2020**
 
 [Personal Website](#personal-website-2020)
@@ -13,7 +15,10 @@ permalink: /projects/
 
 [Microsoft Explore Intern Project](#explore-project-2020)
 
-[Skill-Sharing Website: Ciao (MHacks 13)](#ciao-2020)
+[Ciao (MHacks 13)](#ciao-2020)
+
+**Fall 2019**
+[ReConnect (MHacks 12)](#reconnect-2019)
 
 ## Fall 2020
 ### Personal Website<a name="personal-website-2020"></a>
@@ -112,7 +117,7 @@ I find that using this script condenses the information, and it becomes easier t
 | December 2020 | Python, Selenium, MSEdgeDriver |
 
 ## Summer 2020
-### Microsoft Explore Project<a name="explore-project-2020"></a>
+### Microsoft Explore Intern Project<a name="explore-project-2020"></a>
 In a team of 3 interns, we designed and developed a C# API for developers to self-test their 3rd party SaaS applications for Microsoft’s standards before onboarding to the [Azure Active Directory gallery](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-howto-app-gallery-listing)
 
 I worked on created robust test features to check SaaS applications for the correct effects and responses for PUT and DELETE requests and edge cases, as well as integrating the executable application into a local endpoint.
@@ -127,4 +132,31 @@ I also organized and conducted 10 cognitive walkthroughs with existing customers
  -  Automated process time to check SaaS application for correct configurations from 6 months to *2 weeks*
  - Identified 6 issues in existing onboarded applications with updated testing standards
 
-Check out [this post]({%  post_url  2020-08-30-my-Summer-2020-internship %}) for what I've learned from this internship.
+*Check out [this post]({%  post_url  2020-08-30-my-Summer-2020-internship %}) for what I've learned from this internship.*
+
+### Ciao<a name="ciao-2020"></a>
+At MHacks 13, our team of 4 created a skill-sharing platform connected to Firebase and TensorFlow recommendation system. The user can earn currency from mentoring others, learn from mentors by spending currency, and chat.
+
+I developed the homepage, the explore page that dynamically generated cards with mentors from the recommendation system, and the profile page of other users that query their respective mentor data from Firebase.
+
+|Timeline|Technologies|
+|--|--|
+| Aug 2020 | Python (Flask), Javascript, HTML, CSS, Tensorflow, Firebase |
+
+#### Details:
+ - Wolfram Award for Top 30 Hacks.
+ - [Figma Designs](https://www.figma.com/file/hBAk5ZdN0d8pmCORq4CrYv/MHACKS?node-id=0%3A1)
+ - [Github Repo](https://github.com/yma17/mhacks-13-project)
+ - [Ciao | Devpost](https://devpost.com/software/ciao-ejko35)
+
+## Fall 2019
+### ReConnect <a name="reconnect-2019"></a>
+At MHacks 12, our team of 4 created a site that reminds lonely users of their grateful moments or possible activities to do and asks happy users for things that they are grateful for.
+
+|Timeline|Technologies|
+|--|--|
+| Sept 2019 | jQuery, Bootstrap, HTML, and CSS |
+
+#### Details:
+ - Presented at final demo.
+ - [ReConnect | Devpost](https://devpost.com/software/reconnect-dwjnzb)
